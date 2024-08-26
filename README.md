@@ -1,2 +1,2 @@
-# arkgartha-bot
-ArkGartha Public Documentation
+# Arkgartha Bot
+ArkGartha Documentation
